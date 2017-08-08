@@ -1,22 +1,5 @@
 {
     "name": "objecteditor",
-    "version": "1.0.0",
-    "description": "Electron and Angular based desktop editor for editing graphical objects",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/cserkaran/ObjectEditor.git"
-    },
-    "author": "Karan Sharma",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/cserkaran/ObjectEditor/issues"
-    },
-    "homepage": "https://github.com/cserkaran/ObjectEditor#readme",
-    "dependencies": {
-
-    }
+    "version": "0.1.0",
+    "main": "main.js"
 }
