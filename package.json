@@ -1,5 +1,8 @@
-  {
-      "scripts": {
-          "start": "electron app"
-      }
+{
+  "scripts": {
+    "start": "electron app"
+  },
+  "devDependencies": {
+    "electron": "1.7.9"
   }
+}
