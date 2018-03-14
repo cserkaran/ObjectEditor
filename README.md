@@ -1,2 +1,2 @@
 # ObjectEditor
-Electron and Angular based desktop editor for editing graphical objects
+SaaS editor to edit graphical objects
